@@ -8,4 +8,4 @@ def div(x,y):
 	x/y
 
 def sub(x,y):
-	x - y
+	2x - 2y + (x - y)
