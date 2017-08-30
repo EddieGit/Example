@@ -9,3 +9,6 @@ def div(x,y):
 
 def sub(x,y):
 	2x - 2y + (x - y)
+
+def mod(x,y):
+	x % y 
