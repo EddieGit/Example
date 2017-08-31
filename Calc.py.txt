@@ -19,3 +19,8 @@ def pow(x,y):
 	while (y > 0):
 		x * x
 		y--
+
+
+def log(x,y);
+	while (x > 0):
+		y = 10 * 10
