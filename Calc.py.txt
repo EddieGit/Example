@@ -14,3 +14,8 @@ def mod(x,y):
 	x % y 
 
 print("Testing git on Ubuntu")
+
+def pow(x,y):
+	while (y > 0):
+		x * x
+		y--
