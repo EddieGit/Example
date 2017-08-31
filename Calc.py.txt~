@@ -12,3 +12,5 @@ def sub(x,y):
 
 def mod(x,y):
 	x % y 
+
+print("Testing git on Ubuntu")
